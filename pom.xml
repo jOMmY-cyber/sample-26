@@ -1,0 +1,14 @@
+<project>
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>matrix</groupId>
+    <artifactId>sample-26</artifactId>
+    <version>RELEASE</version>
+    <properties>
+        <maven.compiler.source>18</maven.compiler.source>
+        <maven.compiler.target>18</maven.compiler.target>
+    </properties>
+    <build>
+        <sourceDirectory>java</sourceDirectory>
+        <testSourceDirectory>java</testSourceDirectory>
+    </build>
+</project>
